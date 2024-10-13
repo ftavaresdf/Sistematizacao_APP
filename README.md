@@ -1,6 +1,6 @@
 # Autores
-- Fernando Tavares da Silva
-- Vanessa Silva de Macedo
+- Fernando Tavares da Silva - RA: 72300777
+- Vanessa Silva de Macedo - 72300778
 # Instruções de Instalação
 - Pré-requisitos:
 - Android Studio 4.2 ou superior
